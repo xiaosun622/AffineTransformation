@@ -43,7 +43,7 @@ is_P = ~is_R
 # Z levels
 # -------------------------------
 
-z1, z2, z3 = 0, 40, 70 # distance between planes can be adjusted here
+z1, z2, z3 = 0, 40, 70
 
 # -------------------------------
 # Helper for traces
